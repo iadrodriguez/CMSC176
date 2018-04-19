@@ -1,0 +1,12 @@
+Exercise 1: Using perl
+Programming Exercise 1: Working with Regular Expressions
+Write a program using PERL that takes in as input a text document. The program
+should be able to:
+a. Tokenize the texts in the document
+b. Count the number of tokens and types
+c. Keep track of the number and types of punctuations used
+d. Search words based on user input. The user can use the wildcards * which
+represents one or more character and ? which represents a single character. For
+example a user search of ba* will display bag, bath, bathing, bask etc or ?at will
+display cat, fat, rat etc. or combinations of the wildcards such as ?at* to display
+cat, bat, bath, bathe, rat, rate, rates, etc.
